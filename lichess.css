@@ -1,0 +1,10 @@
+.my-icon{
+    position: absolute;
+    right: 70%;
+}
+
+.list-group-item:hover{
+    cursor: pointer !important;
+    background-color: white !important;
+    color: black !important;
+}
